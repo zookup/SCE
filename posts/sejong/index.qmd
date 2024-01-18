@@ -1,0 +1,10 @@
+---
+title: "세종대학교 블로그"
+author: "Jeong se young"
+date: "2024-01-18"
+categories: [news, code, analysis]
+image: "세종대_mark.png"
+---
+
+# 세종대 
+카펜트리 교육 실습
